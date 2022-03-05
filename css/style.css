@@ -59,3 +59,7 @@ a {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+#projeler .modal-footer {
+    flex-wrap: nowrap;
+}
