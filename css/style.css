@@ -19,19 +19,26 @@ a {
     text-decoration: none !important;
 }
 
+.bg-acikSari {
+    background-color: #F0F4C3;
+}
+
 #topHeader a {
     color: #fff;
 }
 
 #footer {
-    line-height: 16px;
+    line-height: 16px !important;
+    background-color: #F0F4C3;
 }
 
-#footer a {
+#footer a,
+#content a {
     color: #393939;
 }
 
-#footer .bi {
+#footer .bi,
+#content .bi {
     font-size: 24px;
 }
 
@@ -40,7 +47,8 @@ a {
     padding-bottom: 150px;
 }
 
-#footer .bi:hover {
+#footer .bi:hover,
+#content .bi:hover {
     color: #17a2b8;
     transition: .5s;
 }
@@ -62,4 +70,8 @@ a {
 
 #projeler .modal-footer {
     flex-wrap: nowrap;
+}
+
+#content img {
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.45);
 }
