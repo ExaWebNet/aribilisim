@@ -75,3 +75,24 @@ a {
 #content img {
     box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.45);
 }
+
+#webHizmeti {
+    background-image: url('../img/web-tasarim-hizmeti-1000x500.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#grafikHizmeti {
+    background-image: url('../img/grafik-tasarim-hizmeti-1500x573.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#dijitalPazarlama {
+    background-image: url('../img/dijital-pazarlama-hizmeti-1000x700.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
