@@ -96,3 +96,24 @@ a {
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+#blogBanner {
+    background-image: url('../img/blog-banner-1500x640.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#webTasarimda {
+    background-image: url('../img/web-tasarimda-dikkat-edilmesi-gerekenler-1500x500.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#iletisimBanner {
+    background-image: url('../img/iletsim-banner-1500x640.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
