@@ -131,3 +131,18 @@ a {
     font-size: 22px;
     color: #393939;
 }
+
+
+/* Mobil Görünüm Css width 768px */
+
+@media(max-width:768px) {
+    /* .solaYasla {
+        text-align: left !important;
+    } */
+    #topHeader .col-md-6:nth-child(2) {
+        text-align: left !important;
+    }
+    #anasayfaBanner-img {
+        margin-top: 30px;
+    }
+}
